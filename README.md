@@ -5,9 +5,7 @@
 
 如果下载双击无法打开，请安装 JRE（JavaRuntime Environment）
 
-+ [Windows 32位](http://download.oracle.com/otn-pub/java/jdk/8u151-b12/e758a0de34e24606bca991d704f6dcbf/jre-8u151-windows-i586.exe)
-+ [Windows 64位](http://download.oracle.com/otn-pub/java/jdk/8u151-b12/e758a0de34e24606bca991d704f6dcbf/jre-8u151-windows-x64.exe)
-+ [Mac](http://download.oracle.com/otn-pub/java/jdk/8u151-b12/e758a0de34e24606bca991d704f6dcbf/jre-8u151-macosx-x64.dmg)
++ [下载地址](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html)
 ## 下载链接
 + [Baidu 网盘](https://pan.baidu.com/s/1qZ6i8f6)
 + [Github Release](https://github.com/DiamondYuan/cdzz/releases)
